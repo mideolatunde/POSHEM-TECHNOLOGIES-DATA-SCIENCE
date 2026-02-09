@@ -31,10 +31,10 @@ This project presents an Exploratory Data Analysis (EDA) on Poshem Business Scho
 6. Derive insights.
 
 ### &#128194; Dataset Description
-**Source**: Poshem Business School sales data
-**Timeframe**: January 2015 - December 2018 (Approximately 1,457 days (~4 years))
-**Records**: 9,800 entries
-**Columns**: 18
+- **Source**: Poshem Business School sales data
+- **Timeframe**: January 2015 - December 2018 (Approximately 1,457 days (~4 years))
+- **Records**: 9,800 entries
+- **Columns**: 18
 
 The dataset contains the following information:
 - **Order Information**: Order ID, Order Date, Ship Date, Ship Mode
@@ -119,7 +119,7 @@ The notebook is organized based on the following questions:
 - Recommendations for future data collection
 
 
-### Key Insights
+## 🔍Key Insights
 
 ### Market Performance
 - **Total Revenue**: $2.3 million over 4 years, increase in total revenue over the years
@@ -147,7 +147,7 @@ The notebook is organized based on the following questions:
 - No duplicate records
 - **Profit data unavailable** (limitation for profitability analysis)
 
-## Visualizations
+## &#128200; Visualizations
 The analysis includes:
 
 - Several Bar charts showing the distribution of orders across different regions, top 5 cities with the highest orders, top 5 product categories according to sales, top 5 selling products based on the number of orders, average order value per customer segment.
@@ -157,7 +157,7 @@ The analysis includes:
 - Violin plot showing the distribution of sales per category 
 
 
-## Learning Outcomes
+## &#128161; Learning Outcomes
 Through this project, I demonstrated proficiency in:
 
 #### Technical Skills
@@ -180,7 +180,7 @@ Through this project, I demonstrated proficiency in:
 - Data Visualization enhances clarity and business decision-making
 - Statistical analysis methods
 
-## How to Run the Project
+## &#128640; How to Run the Project
 1. **Python Installation** (3.8 or higher)
 ```windows cmd
 py -m python --version
@@ -216,7 +216,7 @@ py -m jupyter lab
 **Solution**: Install missing libraries using `py -m pip install [library-name]`
 
 
-## Repository structure
+## &#128193; Repository structure
 ```
 Poshem_Sales_Project/
 ├──charts/ # Visualization charts
@@ -235,12 +235,11 @@ Poshem_Sales_Project/
 └── poshem_business_school_sales.csv # Dataset
 ```
 
-## License
+## &#128110; License
 This project was completed as part of the **Poshem Technologies Institute curriculum**.
 Dataset provided by **Poshem Business School**.
 
-
-## Contact
+## &#128222; Contact
 **Email**: ayomideeli2002@gmail.com
 **LinkedIn**: https://linkedin.com/in/ayomide-olatunde-2859141a8
 **GitHub**: https://github.com/mideolatunde
