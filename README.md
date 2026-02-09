@@ -240,13 +240,13 @@ This project was completed as part of the **Poshem Technologies Institute curric
 Dataset provided by **Poshem Business School**.
 
 ## &#128222; Contact
-**Email**: ayomideeli2002@gmail.com
-**LinkedIn**: https://linkedin.com/in/ayomide-olatunde-2859141a8
-**GitHub**: https://github.com/mideolatunde
+- **Email**: ayomideeli2002@gmail.com
+- **LinkedIn**: https://linkedin.com/in/ayomide-olatunde-2859141a8
+- **GitHub**: https://github.com/mideolatunde
 
-**Institution**: Poshem Technologies Institute
-**Course**: Python Data Challenge
-**Project Supervisor**: Simon E. Akhamie, CEO
+- **Institution**: Poshem Technologies Institute
+- **Course**: Python Data Challenge
+- **Project Supervisor**: Simon E. Akhamie, CEO
 
 
 
