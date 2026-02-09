@@ -55,7 +55,7 @@ The dataset contains the following information:
 - `matplotlib & seaborn` – Data Visualization
 
 #### Environment
- `Jupyter Notebook` - Interactive analysis & documentation
+- `Jupyter Notebook` - Interactive analysis & documentation
 
 - `github`
 
