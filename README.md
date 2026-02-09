@@ -15,12 +15,12 @@ This project presents an Exploratory Data Analysis (EDA) on Poshem Business Scho
 * [Data Cleaning](#-data-cleaning)
 * [Analysis Questions](#-analysis-questions)
 * [Key Insights](#key-insights)
-* [Visualizations](#visualizations)
-* [Learning Outcomes](#learning-outcomes)
-* [How to Run the project](#how-to-run-the-project)
-* [Repository Structure](#repository-structure)
-* [License](#license)
-* [Contact](#contact)
+* [Visualizations](https://github.com/mideolatunde/POSHEM-TECHNOLOGIES-DATA-SCIENCE?tab=readme-ov-file#-visualizations)
+* [Learning Outcomes](https://github.com/mideolatunde/POSHEM-TECHNOLOGIES-DATA-SCIENCE?tab=readme-ov-file#-learning-outcomes)
+* [How to Run the project](https://github.com/mideolatunde/POSHEM-TECHNOLOGIES-DATA-SCIENCE?tab=readme-ov-file#-how-to-run-the-project)
+* [Repository Structure](https://github.com/mideolatunde/POSHEM-TECHNOLOGIES-DATA-SCIENCE?tab=readme-ov-file#-repository-structure)
+* [License](https://github.com/mideolatunde/POSHEM-TECHNOLOGIES-DATA-SCIENCE?tab=readme-ov-file#-license)
+* [Contact](https://github.com/mideolatunde/POSHEM-TECHNOLOGIES-DATA-SCIENCE?tab=readme-ov-file#-contact)
 
 ## &#127919; Project Objectives
 1. Conduct extensive EDA on Poshem Business School Sales data.
